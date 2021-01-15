@@ -1,3 +1,8 @@
+// 
+// pawelBek
+// blind3dd@gmail.com
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
