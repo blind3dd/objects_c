@@ -1,3 +1,3 @@
-# structures_c
+# objects_c
 
 Shows how different objects can be created by dynamic struct fields allocation
